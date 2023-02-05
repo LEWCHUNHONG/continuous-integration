@@ -192,13 +192,13 @@ Protected branches ensure that collaborators on your repository cannot make irre
 
 ### :keyboard: Activity: Add branch protections
 
-1. Go to **Branches** settings. You can navigate to that page manually by clicking on the right-most tab in the top of the repository called **Settings** and then clicking on **Branches**.
-1. Click on **Add rule** under "Branch protection rules".
-1. Type `main` in **Branch name pattern**.
-1. Check **Require pull request reviews before merging**.
-1. Check **Require status checks to pass before merging**.
+1. Go to __Branches__ settings. You can navigate to that page manually by clicking on the right-most tab in the top of the repository called **Settings** and then clicking on __Branches__.
+1. Click on __Add rule__ under "Branch protection rules".
+1. Type `main` in __Branch name pattern__.
+1. Check __Require pull request reviews before merging__.
+1. Check __Require status checks to pass before merging__.
 1. Check all build and test jobs that you'd like to see in the newly visible gray box.
-1. Click **Create**.
+1. Click __Create__.
 1. _Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the next step on your own._
 
 <!-- Wait about 20 seconds then refresh this page for the next step. -->
@@ -220,7 +220,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 
 ### :keyboard: Activity: Merge your pull request
 
-1. Click **Merge pull request**.
+1. Click __Merge pull request__.
 1. Delete the branch `ci` (optional).
 1. _Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the "finish" on your own._
 
