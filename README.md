@@ -192,7 +192,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 
 ### :keyboard: Activity: Add branch protections
 
-1. Go to __Branches__ settings. You can navigate to that page manually by clicking on the right-most tab in the top of the repository called **Settings** and then clicking on __Branches__.
+1. Go to __Branches__ settings. You can navigate to that page manually by clicking on the right-most tab in the top of the repository called __Settings__ and then clicking on __Branches__.
 1. Click on __Add rule__ under "Branch protection rules".
 1. Type `main` in __Branch name pattern__.
 1. Check __Require pull request reviews before merging__.
